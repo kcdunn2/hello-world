@@ -4,10 +4,10 @@ Learning how to create a Repository
   <h3>Kristina Here</h3>
 </p>
 <p>
-  I love logic and problem solving
+  I love logic and problem solving.
 </p>
 <p>
-  I am currently practising <i> Javascript</i>. I have a little bit of experience with HTML and CSS and am always improving and learning. 
+  I am currently practicing <i> Javascript</i>. I have some experience with HTML and CSS and I am always improving and learning. 
 </p>
 <p> 
   I am here to bring some feminitiy to the computer science space.
