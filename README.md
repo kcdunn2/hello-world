@@ -1,5 +1,5 @@
 # hello-world
-Learning how to create a Repository
+I am learning how to create a Repository
 <p>
   <h3>Kristina Here</h3>
 </p>
