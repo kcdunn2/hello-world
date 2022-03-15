@@ -1,7 +1,7 @@
 # hello-world
 Learning how to create a Repository
 <p>
-  My name is <h3>Kristina </h3>
+  <h3>Kristina Here</h3>
 </p>
 <p>
   I love logic and problem solving
